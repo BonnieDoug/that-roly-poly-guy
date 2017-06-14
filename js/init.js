@@ -7,9 +7,12 @@
         $(document).ready(function () {
             $('select').material_select();
         });
-        $(document).ready(function(){
+        $(document).ready(function () {
             $('.carousel').carousel();
             $('.modal').modal();
+            $('.anchor').scrollSpy({
+                scrollOffset: 10
+            });
         });
 
     }); // end of document ready
