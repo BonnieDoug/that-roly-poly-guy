@@ -9,6 +9,7 @@
         });
         $(document).ready(function(){
             $('.carousel').carousel();
+            $('.modal').modal();
         });
 
     }); // end of document ready

@@ -62,8 +62,10 @@ if (isset($_POST['send_email'])) {
             <a id="logo-container" href="#" class="brand-logo">
             </a>
             <ul class="left hide-on-med-and-down">
-                <li><a href="https://www.facebook.com/pg/thatrolypolyguy/" class="black-text"><i class="ion-social-facebook medium"></i></a></li>
-                <li><a href="https://www.instagram.com/thatrolypolyguy/" class="black-text"><i class="ion-social-instagram medium"></i></a></li>
+                <li><a href="https://www.facebook.com/pg/thatrolypolyguy/" class="black-text"><i
+                                class="ion-social-facebook medium"></i></a></li>
+                <li><a href="https://www.instagram.com/thatrolypolyguy/" class="black-text"><i
+                                class="ion-social-instagram medium"></i></a></li>
                 <li><a href="https://twitter.com/ThatRolyPolyGuy" target="_blank" class="black-text"><i
                                 class="ion-social-twitter medium"></i></a>
                 </li>
@@ -109,11 +111,11 @@ if (isset($_POST['send_email'])) {
 
         <h1 class="center">Portfoly</h1>
         <div class="carousel">
-            <a class="carousel-item" href="#one!"><img src="./images/carosel1.jpg"></a>
-            <a class="carousel-item" href="#two!"><img src="./images/carosel2.jpg"></a>
-            <a class="carousel-item" href="#three!"><img src="./images/carosel3.jpg"></a>
-            <a class="carousel-item" href="#four!"><img src="./images/carosel4.jpg"></a>
-            <a class="carousel-item" href="#five!"><img src="./images/carosel5.jpg"></a>
+            <a class="carousel-item" href="#modal1"><img src="./images/carosel1.jpg"></a>
+            <a class="carousel-item" href="#modal2"><img src="./images/carosel2.jpg"></a>
+            <a class="carousel-item" href="#modal3"><img src="./images/carosel3.jpg"></a>
+            <a class="carousel-item" href="#modal4"><img src="./images/carosel4.jpg"></a>
+            <a class="carousel-item" href="#modal5"><img src="./images/carosel5.jpg"></a>
         </div>
         <br><br>
 
@@ -160,6 +162,32 @@ if (isset($_POST['send_email'])) {
         </div>
     </div>
 </footer>
+
+<div id="modal1" class="modal" style="width:320px;">
+    <div class="modal-content">
+        <img class="modal-image" src="./images/carosel1.jpg">
+    </div>
+</div>
+<div id="modal2" class="modal" style="width:320px;">
+    <div class="modal-content">
+        <img class="modal-image" src="./images/carosel2.jpg">
+    </div>
+</div>
+<div id="modal3" class="modal" style="width:320px;">
+    <div class="modal-content">
+        <img class="modal-image" src="./images/carosel3.jpg">
+    </div>
+</div>
+<div id="modal4" class="modal" style="width:320px;">
+    <div class="modal-content">
+        <img class="modal-image" src="./images/carosel4.jpg">
+    </div>
+</div>
+<div id="modal5" class="modal" style="width:320px;">
+    <div class="modal-content">
+        <img class="modal-image" src="./images/carosel5.jpg">
+    </div>
+</div>
 
 
 <!--  Scripts-->

@@ -71,3 +71,12 @@ footer.page-footer {
     padding: 15px !important;
     background-color: rgba(51, 51, 51, 0.77);
 }
+
+
+.modal-image{
+    height: 380px;
+    max-height: 55vh;
+    margin: 0 auto;
+    position: relative;
+    display: block;
+}
