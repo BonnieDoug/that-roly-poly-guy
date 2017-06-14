@@ -1,0 +1,10 @@
+{
+    "name": "doug/doug",
+    "license": "proprietary",
+    "type": "project",
+    "require": {
+        "php": "~7.0",
+        "ext-mbstring": "*",
+        "sendgrid/sendgrid": "~5.5"
+    }
+}
