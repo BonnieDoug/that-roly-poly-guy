@@ -75,7 +75,7 @@ if (isset($_POST['send_email'])) {
                 <li><a href="https://www.etsy.com/uk/shop/thatrolypolyguy" target="_blank" class="black-text">Shop</a>
                 </li>
             </ul>
-            <a href="#" data-activates="nav-mobile" class="button-collapse white-text
+            <a href="#" data-activates="nav-mobile" class="button-collapse black-text
 "><i class="material-icons">menu</i></a>
         </div>
     </nav>
