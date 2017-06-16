@@ -168,11 +168,11 @@ if (isset($_POST['send_email'])) {
                 <h5 class="white-text">Connect</h5>
                 <ul>
                     <li><a target="_blank" href="https://www.facebook.com/pg/thatrolypolyguy/" class="black-text"><i
-                                    class="ion-social-facebook tiny"></i>@thatrolypolyguy</a></li>
+                                    class="ion-social-facebook tiny"></i> @thatrolypolyguy</a></li>
                     <li><a target="_blank" href="https://www.instagram.com/thatrolypolyguy/" class="black-text"><i
-                                    class="ion-social-instagram tiny"></i>@thatrolypolyguy</a></li>
+                                    class="ion-social-instagram tiny"></i> thatrolypolyguy</a></li>
                     <li><a target="_blank" href="https://twitter.com/ThatRolyPolyGuy" target="_blank" class="black-text"><i
-                                    class="ion-social-twitter tiny"></i>@thatrolypolyguy</a>
+                                    class="ion-social-twitter tiny"></i> #trpg</a>
                     </li>
                 </ul>
             </div>
