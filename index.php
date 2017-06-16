@@ -63,9 +63,9 @@ if (isset($_POST['send_email'])) {
             </a>
             <ul class="left hide-on-med-and-down">
                 <li><a target="_blank" href="https://www.facebook.com/pg/thatrolypolyguy/" class="black-text"><i
-                                class="ion-social-facebook medium"></i></a></li>
+                                class="ion-social-facebook small"></i></a></li>
                 <li><a target="_blank" href="https://www.instagram.com/thatrolypolyguy/" class="black-text"><i
-                                class="ion-social-instagram medium"></i></a></li>
+                                class="ion-social-instagram small"></i></a></li>
                 <li><a target="_blank" href="https://twitter.com/ThatRolyPolyGuy" target="_blank" class="black-text"><i
                                 class="ion-social-twitter small"></i></a>
                 </li>
@@ -167,8 +167,13 @@ if (isset($_POST['send_email'])) {
             <div class="col l3 s12">
                 <h5 class="white-text">Connect</h5>
                 <ul>
-                    <li><a class="white-text" href="">@thatrolypolyguy</a></li>
-                    <li><a class="white-text" href="#">#TRPG</a></li>
+                    <li><a target="_blank" href="https://www.facebook.com/pg/thatrolypolyguy/" class="black-text"><i
+                                    class="ion-social-facebook small"></i>@thatrolypolyguy</a></li>
+                    <li><a target="_blank" href="https://www.instagram.com/thatrolypolyguy/" class="black-text"><i
+                                    class="ion-social-instagram small"></i>@thatrolypolyguy</a></li>
+                    <li><a target="_blank" href="https://twitter.com/ThatRolyPolyGuy" target="_blank" class="black-text"><i
+                                    class="ion-social-twitter small"></i>@thatrolypolyguy</a>
+                    </li>
                 </ul>
             </div>
         </div>
