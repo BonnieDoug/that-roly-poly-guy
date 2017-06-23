@@ -118,7 +118,7 @@ if (isset($_POST['send_email'])) {
 
     </div>
 </div>
-<div id="index-banner" class="parallax-containe valign-wrapperr" style="min-height: 85vh;">
+<div id="index-banner" class="parallax-container valign-wrapper" style="min-height: 85vh;">
         <div class="section no-pad-bot">
         <div class="container">
             <div class="row center">
