@@ -119,6 +119,13 @@ if (isset($_POST['send_email'])) {
     </div>
 </div>
 <div id="index-banner" class="parallax-container" style="min-height: 85vh;">
+        <div class="section no-pad-bot">
+        <div class="container">
+            <div class="row center">
+                <h3 class="header col s12 light transparency">#trpg</h3>
+            </div>
+        </div>
+    </div>
     <div class="parallax"><img src="./images/background2.jpg" alt="Unsplashed background img 1"></div>
 </div>
 
