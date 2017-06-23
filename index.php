@@ -90,7 +90,7 @@ if (isset($_POST['send_email'])) {
 </ul>
 <a id="home" class="anchor"></a>
 <div id="index-banner" class="parallax-container" style="min-height: 85vh;">
-    <div class="parallax"><img src="./images/background1.jpg" alt="Unsplashed background img 1"></div>
+    <div class="parallax"><img src="./images/background-1.jpg" alt="Unsplashed background img 1"></div>
 </div>
 <a id="about" class="anchor"></a>
 <div class="container">
@@ -126,7 +126,7 @@ if (isset($_POST['send_email'])) {
             </div>
         </div>
     </div>
-    <div class="parallax"><img src="./images/background2.jpg" alt="Unsplashed background img 1"></div>
+    <div class="parallax"><img src="./images/background-2.jpg" alt="Unsplashed background img 1"></div>
 </div>
 
 <div class="container">
@@ -153,7 +153,7 @@ if (isset($_POST['send_email'])) {
             </div>
         </div>
     </div>
-    <div class="parallax"><img src="./images/background3.jpg" alt="Unsplashed background img 3"></div>
+    <div class="parallax"><img src="./images/background-3.jpg" alt="Unsplashed background img 3"></div>
 </div>
 <footer class="page-footer grey">
     <div class="container">
