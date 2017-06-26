@@ -21,7 +21,7 @@ if (isset($_POST['send_email'])) {
     <link href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" rel="stylesheet">
     <link rel="stylesheet" href="./css/materialize.css">
     <!--    <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>-->
-    <link href="./css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+    <link href="./css/style.css?1" type="text/css" rel="stylesheet" media="screen,projection"/>
     <style>
         /* fallback */
         @font-face {
@@ -90,7 +90,7 @@ if (isset($_POST['send_email'])) {
 </ul>
 <a id="home" class="anchor"></a>
 <div id="index-banner" class="parallax-container" style="min-height: 85vh;">
-    <div class="parallax"><img src="./images/background-1.jpg" alt="Unsplashed background img 1"></div>
+    <div class="parallax"><img src="./images/background-1.jpg?1" alt="Unsplashed background img 1"></div>
 </div>
 <a id="about" class="anchor"></a>
 <div class="container">
