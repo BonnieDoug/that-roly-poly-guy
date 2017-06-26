@@ -6,22 +6,28 @@
  */
 namespace Application;
 
-use Application\Model\{Car, Person};
-use SendGrid\{Email, Content, Mail};
+use Application\Model\{
+    Car, Person
+};
+use SendGrid\{
+    Email, Content, Mail
+};
 
 class EmailController
 {
 
 
-    public function processForm(){
+    public function processForm()
+    {
         $car = new Car($_POST);
         $person = new Person($_POST);
         $this->sendRequestEmail($car, $person);
         $this->sendConfirmationEmail($car, $person);
     }
 
-    public function sendRequestEmail(Car $car, Person $person){
-
+    public function sendRequestEmail(Car $car, Person $person)
+    {
+        print "GOT 1";
         $from = new Email($person->getName(), $person->getEmail());
         $subject = "Quote Requested on Scrap-my-car-south-yorkshire.co.uk";
         $to = new Email("Jason", "doug@bonniechef.com");
@@ -29,12 +35,13 @@ class EmailController
         $mail = new Mail($from, $subject, $to, $content);
         $apiKey = getenv('SENDGRID_API_KEY');
         $sg = new \SendGrid($apiKey);
-        $response = $sg->client->mail()->send()->post($mail);
-
+        $sg->client->mail()->send()->post($mail);
+        PRINT "GOT 2";
     }
 
-    public function sendConfirmationEmail(Car $car, Person $person){
-
+    public function sendConfirmationEmail(Car $car, Person $person)
+    {
+        PRINT "GOT 3";
         $from = new Email("Jason", "doug@bonniechef.com");
         $subject = "Quote Requested on Scrap-my-car-south-yorkshire.co.uk";
         $to = new Email($person->getName(), $person->getEmail());
@@ -44,7 +51,7 @@ class EmailController
         $apiKey = getenv('SENDGRID_API_KEY');
         $sg = new \SendGrid($apiKey);
         $response = $sg->client->mail()->send()->post($mail);
-
+        PRINT "GOT 4";
     }
 
 }

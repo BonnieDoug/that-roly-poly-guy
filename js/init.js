@@ -9,9 +9,12 @@
         });
         $(document).ready(function () {
             $('.carousel').carousel();
+            setInterval(function() {
+                $('.carousel').carousel('next');
+            }, 1500);
             $('.modal').modal();
             $('.anchor').scrollSpy({
-                scrollOffset: 10
+                scrollOffset: -5
             });
         });
 

@@ -84,7 +84,7 @@ if (isset($_POST['send_email'])) {
 </div>
 <ul id="nav-mobile" class="side-nav">
     <li><a href="#home" class="black-text">Home</a></li>
-    <li><a href="#about-us" class="black-text">About</a></li>
+    <li><a href="#about" class="black-text">About</a></li>
     <li><a href="#portfolio" class="black-text">Portpoly</a></li>
     <li><a href="https://www.etsy.com/uk/shop/thatrolypolyguy" target="_blank" class="black-text">Shop</a>
 </ul>

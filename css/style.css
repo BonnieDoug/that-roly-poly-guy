@@ -26,8 +26,13 @@ p {
 .parallax-container .section {
     width: 100%;
 }
-
+.parallax img{
+    max-width:100%;
+}
 @media only screen and (max-width: 992px) {
+    .parallax img{
+        max-width:130%;
+    }
     .parallax-container .section {
         position: absolute;
         top: 40%;
@@ -39,6 +44,9 @@ p {
 }
 
 @media only screen and (max-width: 600px) {
+    .parallax img{
+        max-width:230%;
+    }
     #index-banner .section {
         top: 0;
     }
@@ -69,7 +77,7 @@ footer.page-footer {
 
 .transparency{
     padding: 15px !important;
-    background-color: rgba(51, 51, 51, 0.77);
+    background-color: rgba(51, 51, 51, 0.3);
 }
 
 
