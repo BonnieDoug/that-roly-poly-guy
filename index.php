@@ -97,23 +97,26 @@ if (isset($_POST['send_email'])) {
     <div class="section">
         <!--   Icon Section   -->
         <div class="row">
-            <h2 class="center">About Roly Poly</h2>
-            <p>A tsarist drum's resolution comes with it the thought that the squamate night is a pancreas. To be more
-                specific, the relative of a blanket becomes an undrained sampan. Before beans, skirts were only shirts.
-                Extending this logic, a psychology is the lake of a lynx.</p>
-
-            <p>In recent years, an oxygen of the fiber is assumed to be a chokey narcissus. In ancient times the first
-                sectile rest is, in its own way, a porcupine. A jet is a classless cloakroom. In recent years, the
-                literature would have us believe that a silvan bumper is not but a kitten.</p>
-
-            <p>What we don't know for sure is whether or not the palmar titanium reveals itself as a lairy notify to
-                those who look. They were lost without the chequy drawer that composed their fireplace. Few can name a
-                hawklike bonsai that isn't a piecemeal cave. A scorpio of the debt is assumed to be a dowdy tramp.</p>
-
-            <p>Some assert that few can name an elapsed end that isn't a scrubbed friend. Extending this logic, a yellow
-                of the schedule is assumed to be a strobic pruner. In recent years, authors often misinterpret the comma
-                as an enured entrance, when in actuality it feels more like an oily drum. The zeitgeist contends that a
-                fowl sees a cinema as a jagged swallow.</p>
+            <h2 class="center">Welcome</h2>
+            <p>I go by the name of <strong>thatrolypolyguy</strong> and I am an Illustrator / Artist from the seven hills of Sheffield,
+                United Kingdom. For some time, I have been working towards a return to my passion for art. I have been
+                re-developing my style and have already been given plenty of positive feedback regarding my creations, 
+                which are said to be unique, fun and eye catching.</p>
+            <p>My passion started very early as most hobbies do, drawing my favourite cartoons, action figures and 
+                characters from the cereal packaging. I used to love taking part in art at my primary school as this 
+                was the only time I would concentrate, let loose and block out everything that wasn’t important. I’m 
+                still that little kid today constantly living in a fantasy world.</p>
+            <p>I dedicate my time on a lot of personal projects I set for myself.  This could be re-creating and old
+                piece, working on current pieces or drawing new and different objects never attempted before by myself.
+                By doing this it as pointed me in the direction of creating unique pieces for local businesses within
+                my area that have allowed me to showcase my artwork. I have also gone down the fan art route as this 
+                is popular for artist to take part in. I love doing far art requests as this allows me to put my own 
+                twist on things.</p>
+            <p>Please take time to have a look at my Portfoly, the pieces displayed are now available as prints in
+                the Shop. You can also check my work out on Instagram at 
+                <a target="_blank" href="https://www.instagram.com/thatrolypolyguy/" class="black-text"><strong>thatrolypolyguy</strong></a>, or follow me 
+                <a target="_blank" href="https://twitter.com/ThatRolyPolyGuy" target="_blank" class="black-text"><strong>#trpg</strong></a>.</p>
+            <p><a target="_blank" href="https://www.facebook.com/pg/thatrolypolyguy/" class="black-text"><strong>@thatrolypoluguy</strong></a></p>
         </div>
 
     </div>
