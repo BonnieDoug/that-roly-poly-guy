@@ -96,7 +96,7 @@ if (isset($_POST['send_email'])) {
 <div class="container">
     <div class="section">
         <!--   Icon Section   -->
-        <div class="row">
+        <div class="row flow-text">
             <h2 class="center">Welcome</h2>
             <p>I go by the name of <strong>thatrolypolyguy</strong> and I am an Illustrator / Artist from the seven hills of Sheffield,
                 United Kingdom. For some time, I have been working towards a return to my passion for art. I have been
