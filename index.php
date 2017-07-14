@@ -65,6 +65,9 @@ if (isset($_POST['send_email'])) {
                 <li><a target="_blank" href="https://www.instagram.com/thatrolypolyguy/" class="black-text"><i
                                 class="ion-social-instagram small"></i></a></li>
                 </li>
+                <li><a target="_blank" href="mailto:thatrolypolyguy@hotmail.com" class="black-text"><i
+                                class="ion-email small"></i></a></li>
+                </li>
             </ul>
             <ul class="right hide-on-med-and-down">
                 <li><a href="#home" class="black-text">Home</a></li>
