@@ -114,9 +114,7 @@ if (isset($_POST['send_email'])) {
                 twist on things.</p>
             <p>Please take time to have a look at my Portfoly, the pieces displayed are now available as prints in
                 the Shop. You can also check my work out on Instagram at 
-                <a target="_blank" href="https://www.instagram.com/thatrolypolyguy/" class="black-text"><strong>thatrolypolyguy</strong></a>, or follow me 
-                <a target="_blank" href="https://twitter.com/ThatRolyPolyGuy" target="_blank" class="black-text"><strong>#trpg</strong></a>.</p>
-            <p><a target="_blank" href="https://www.facebook.com/pg/thatrolypolyguy/" class="black-text"><strong>@thatrolypoluguy</strong></a></p>
+                <a target="_blank" href="https://www.instagram.com/thatrolypolyguy/" class="black-text"><strong>thatrolypolyguy</strong></a>.</p>
         </div>
 
     </div>
@@ -162,7 +160,7 @@ if (isset($_POST['send_email'])) {
     <div class="container">
         <div class="row">
             <div class="col l6 s12">
-                <h5 class="white-text">That Roly Poly Guy</h5>
+                <h5 class="white-text">For commercial work, you can contact me via the following email, <a href="mailto:thatrolypolyguy@hotmail.com" target="_top">thatrolypolyguy@hotmail.com</a></h5>
                 <p class="grey-text text-lighten-4"></p>
             </div>
             <!--            <div class="col l3 s12">-->
@@ -175,16 +173,8 @@ if (isset($_POST['send_email'])) {
             <!--                </ul>-->
             <!--            </div>-->
             <div class="col l3 s12">
-                <h5 class="white-text">Connect</h5>
-                <ul>
-                    <li><a target="_blank" href="https://www.facebook.com/pg/thatrolypolyguy/" class="black-text"><i
-                                    class="ion-social-facebook tiny"></i> @thatrolypolyguy</a></li>
-                    <li><a target="_blank" href="https://www.instagram.com/thatrolypolyguy/" class="black-text"><i
-                                    class="ion-social-instagram tiny"></i> thatrolypolyguy</a></li>
-                    <li><a target="_blank" href="https://twitter.com/ThatRolyPolyGuy" target="_blank" class="black-text"><i
-                                    class="ion-social-twitter tiny"></i> #trpg</a>
-                    </li>
-                </ul>
+                <h5 class="white-text"><a target="_blank" href="https://www.instagram.com/thatrolypolyguy/" class="black-text"><i
+                                    class="ion-social-instagram tiny"></i> thatrolypolyguy</a></h5>
             </div>
         </div>
     </div>
