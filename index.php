@@ -159,7 +159,8 @@ if (isset($_POST['send_email'])) {
     <div class="container">
         <div class="row">
             <div class="col l6 s12">
-                <h5 class="white-text">For commercial work, you can contact me via the following email, <a class="white-text" href="mailto:thatrolypolyguy@hotmail.com" target="_top">thatrolypolyguy@hotmail.com</a></h5>
+                <h5 class="white-text"><a target="_blank" href="mailto:thatrolypolyguy@hotmail.com" class="black-text"><i
+                                    class="ion-email small"></i> thatrolypolyguy@hotmail.com</a></h5>
                 <p class="grey-text text-lighten-4"></p>
             </div>
             <!--            <div class="col l3 s12">-->
