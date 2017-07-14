@@ -62,12 +62,8 @@ if (isset($_POST['send_email'])) {
             <a id="logo-container" href="#" class="brand-logo">
             </a>
             <ul class="left hide-on-med-and-down">
-                <li><a target="_blank" href="https://www.facebook.com/pg/thatrolypolyguy/" class="black-text"><i
-                                class="ion-social-facebook small"></i></a></li>
                 <li><a target="_blank" href="https://www.instagram.com/thatrolypolyguy/" class="black-text"><i
                                 class="ion-social-instagram small"></i></a></li>
-                <li><a target="_blank" href="https://twitter.com/ThatRolyPolyGuy" target="_blank" class="black-text"><i
-                                class="ion-social-twitter small"></i></a>
                 </li>
             </ul>
             <ul class="right hide-on-med-and-down">
@@ -160,7 +156,7 @@ if (isset($_POST['send_email'])) {
     <div class="container">
         <div class="row">
             <div class="col l6 s12">
-                <h5 class="white-text">For commercial work, you can contact me via the following email, <a href="mailto:thatrolypolyguy@hotmail.com" target="_top">thatrolypolyguy@hotmail.com</a></h5>
+                <h5 class="white-text">For commercial work, you can contact me via the following email, <a class="white-text" href="mailto:thatrolypolyguy@hotmail.com" target="_top">thatrolypolyguy@hotmail.com</a></h5>
                 <p class="grey-text text-lighten-4"></p>
             </div>
             <!--            <div class="col l3 s12">-->
@@ -174,7 +170,7 @@ if (isset($_POST['send_email'])) {
             <!--            </div>-->
             <div class="col l3 s12">
                 <h5 class="white-text"><a target="_blank" href="https://www.instagram.com/thatrolypolyguy/" class="black-text"><i
-                                    class="ion-social-instagram tiny"></i> thatrolypolyguy</a></h5>
+                                    class="ion-social-instagram small"></i> thatrolypolyguy</a></h5>
             </div>
         </div>
     </div>
